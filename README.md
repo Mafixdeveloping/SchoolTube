@@ -12,4 +12,4 @@ This is an app, written in swift to watch movies for school.
 - wait a few seconds until the video is shown
 - Start watching!
 
-Copyrights 2025 by Felix Romberg
+Copyrights 2025 by Mafixdeveloping
