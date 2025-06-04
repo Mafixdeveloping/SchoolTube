@@ -24,7 +24,7 @@ struct ContentView: View {
             }
             
             if let videoId = videoId {
-                WebView(url: URL(string: "https://www.youtube-nocookie.com/embed/\(videoId)")!)
+                WebView(url: URL(string: "https://www.youtube-nocookie.com/embed/\(videoId)?rel=0")!)
                     .frame(minHeight: 300)
             }
         }
